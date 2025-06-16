@@ -25,3 +25,5 @@ Notable Groups
 **PLA Unit 61398*: Allegedly involved in cyber espionage against US corporations and government agencies.
 8.**Comment Crew (APT1)*: Suspected hackers from a group believed to be linked to China's military, responsible for breaches into various companies' networks worldwide.
 9. Winnti Group: A Chinese-speaking group suspected of malware development, ransomware attacks, and other malicious activities.
+Gu Chunhui: Linked to PLA Unit 61398, allegedly involved in cyber attacks against US corporations and government agencies.
+Hu Xiangdong: Suspected hacker for the Chinese military's "Comment Crew" group (also known as APT1).
