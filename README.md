@@ -45,3 +45,5 @@ These individuals are suspected of being involved in hacking activities but may 
 #cybervor https://youtu.be/23tXT5xL7vg?si=wOz3uX9ZRiOAHzCb Ivan Pavlov - Also known as "CyberVor," he is a Russian hacker involved in various high-profile hacks, including those targeting major U.S.-based companies
 Rustam Rafailevich Gallyamov - https://youtu.be/NRgBDO7PgqE?si=q9f6-qFLC1-4mJnG
 Adrian Lamo - Adrian Lamo - Also known as "The Homeless Hacker," he was involved with various hacking groups and had ties to law enforcement agencies. https://youtu.be/LDp3zZTPgBU?si=OqlKSxpcw3aNqwxd
+4. Robert Tappan Morris: A former member of the MIT Artificial Intelligence Lab and suspected to have ties with various hacking groups, including those linked to organized crime.
+https://alumni.cornell.edu/cornellians/morris-worm/
