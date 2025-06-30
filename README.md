@@ -42,3 +42,6 @@ Note: The information provided is based on publicly available sources. It's esse
 These individuals are suspected of being involved in hacking activities but may not have been convicted or officially linked to these groups by authorities.
 #interlock _ https://www.bankinfosecurity.com/interlock-begins-leaking-kettering-healths-stolen-data-a-28600
 
+#cybervor https://youtu.be/23tXT5xL7vg?si=wOz3uX9ZRiOAHzCb Ivan Pavlov - Also known as "CyberVor," he is a Russian hacker involved in various high-profile hacks, including those targeting major U.S.-based companies
+Rustam Rafailevich Gallyamov - https://youtu.be/NRgBDO7PgqE?si=q9f6-qFLC1-4mJnG
+Adrian Lamo - Adrian Lamo - Also known as "The Homeless Hacker," he was involved with various hacking groups and had ties to law enforcement agencies. https://youtu.be/LDp3zZTPgBU?si=OqlKSxpcw3aNqwxd
