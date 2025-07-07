@@ -48,3 +48,4 @@ Adrian Lamo - Adrian Lamo - Also known as "The Homeless Hacker," he was involved
 4. Robert Tappan Morris: A former member of the MIT Artificial Intelligence Lab and suspected to have ties with various hacking groups, including those linked to organized crime.
 https://alumni.cornell.edu/cornellians/morris-worm/
 https://youtu.be/XOt3WpJa_Js?si=CFHa8v9ffbwgKkkp
+- Karim Baratov - https://youtu.be/XMBF_rJRPzk?si=V-OHQTu3v8lN9ggI
